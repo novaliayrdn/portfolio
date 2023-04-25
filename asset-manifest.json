@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f8cc9ff5.css",
-    "main.js": "/portfolio/static/js/main.aeaf9764.js",
+    "main.js": "/portfolio/static/js/main.ee26f50d.js",
     "static/media/ultah-gereja.mp4": "/portfolio/static/media/ultah-gereja.d0d366c1f0f28314a321.mp4",
     "static/media/april23.mov": "/portfolio/static/media/april23.0cf87ae08ae363e93b49.mov",
     "static/media/april23dua.mov": "/portfolio/static/media/april23dua.00ab5ef984b6cbd98e8d.mov",
@@ -31,6 +31,7 @@
     "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/davinci.svg": "/portfolio/static/media/davinci.f9e3c67e98425a95552e55eca07492c6.svg",
     "static/media/nav-icon3.svg": "/portfolio/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
     "static/media/inshot.svg": "/portfolio/static/media/inshot.5333abdc0b6d084053e71237e9d43f1f.svg",
     "static/media/filmora.svg": "/portfolio/static/media/filmora.12be6bd94692632fb5837b7f43df2b6f.svg",
@@ -39,10 +40,10 @@
     "static/media/sublime-text.svg": "/portfolio/static/media/sublime-text.d3b0afdc5388575476413ecfa8824acf.svg",
     "index.html": "/portfolio/index.html",
     "main.f8cc9ff5.css.map": "/portfolio/static/css/main.f8cc9ff5.css.map",
-    "main.aeaf9764.js.map": "/portfolio/static/js/main.aeaf9764.js.map"
+    "main.ee26f50d.js.map": "/portfolio/static/js/main.ee26f50d.js.map"
   },
   "entrypoints": [
     "static/css/main.f8cc9ff5.css",
-    "static/js/main.aeaf9764.js"
+    "static/js/main.ee26f50d.js"
   ]
 }
