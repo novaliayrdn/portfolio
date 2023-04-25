@@ -5,6 +5,7 @@ import sublimeText from "../assets/img/sublime-text.svg";
 import filmora from "../assets/img/filmora.svg";
 import ligthroom from "../assets/img/lightroom.svg";
 import inshot from "../assets/img/inshot.svg";
+import davinci from "../assets/img/davinci.svg";
 import { motion } from "framer-motion";
 
 import "./css/Skills.css";
@@ -30,7 +31,7 @@ export const Skills = () => {
           <div className="col-12">
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
-              <p>Languages, Framework & Database</p>
+              <p>Language, Framework & Database</p>
               <Row className="text-center">
                 <Col style={coloumn}>
                   <motion.div
@@ -50,6 +51,17 @@ export const Skills = () => {
                   >
                     <i className="devicon-css3-plain" style={icons}></i> <br />
                     CSS
+                  </motion.div>
+                </Col>
+                <Col style={coloumn}>
+                  <motion.div
+                    className="pointer"
+                    whileHover={{ scale: 1.1 }}
+                    transition={{ type: "spring", stiffness: 400, damping: 10 }}
+                  >
+                    <i className="devicon-javascript-plain" style={icons}></i>{" "}
+                    <br />
+                    JavaScript
                   </motion.div>
                 </Col>
                 <Col style={coloumn}>
@@ -96,6 +108,16 @@ export const Skills = () => {
                   >
                     <i class="devicon-atom-original" style={icons}></i> <br />
                     Atom
+                  </motion.div>
+                </Col>
+                <Col style={coloumn}>
+                  <motion.div
+                    className="pointer"
+                    whileHover={{ scale: 1.1 }}
+                    transition={{ type: "spring", stiffness: 400, damping: 10 }}
+                  >
+                    <img src={davinci} alt="Logo" style={imgicon} /> <br />
+                    Davinci
                   </motion.div>
                 </Col>
                 <Col style={coloumn}>
