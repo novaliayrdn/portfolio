@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f8cc9ff5.css",
-    "main.js": "/portfolio/static/js/main.ee26f50d.js",
+    "main.js": "/portfolio/static/js/main.57d39946.js",
     "static/media/ultah-gereja.mp4": "/portfolio/static/media/ultah-gereja.d0d366c1f0f28314a321.mp4",
     "static/media/april23.mov": "/portfolio/static/media/april23.0cf87ae08ae363e93b49.mov",
     "static/media/april23dua.mov": "/portfolio/static/media/april23dua.00ab5ef984b6cbd98e8d.mov",
@@ -40,10 +40,10 @@
     "static/media/sublime-text.svg": "/portfolio/static/media/sublime-text.d3b0afdc5388575476413ecfa8824acf.svg",
     "index.html": "/portfolio/index.html",
     "main.f8cc9ff5.css.map": "/portfolio/static/css/main.f8cc9ff5.css.map",
-    "main.ee26f50d.js.map": "/portfolio/static/js/main.ee26f50d.js.map"
+    "main.57d39946.js.map": "/portfolio/static/js/main.57d39946.js.map"
   },
   "entrypoints": [
     "static/css/main.f8cc9ff5.css",
-    "static/js/main.ee26f50d.js"
+    "static/js/main.57d39946.js"
   ]
 }
