@@ -135,42 +135,42 @@ export const Projects = () => {
   const lithans = [
     {
       link: "#",
-      title: "Python Project",
+      title: "Python Project 'Adding_Report'",
       year: "2023",
       description:
-        "My first project from Lithan during Python Programming module",
+        "My first project from Lithan that works like a sum calculator, where's the output will show all number 'integers' inputted, and show the total sum of all those numbers",
       imgUrl: lithan1,
     },
     {
       link: "#",
-      title: "Python Project",
+      title: "Python Project 'Adding_Report (2)'",
       year: "2023",
       description:
-        "My first project from Lithan during Python Programming module",
+        "My first project from Lithan that works like a sum calculator, where's the output will show all number 'integers' inputted, and show the total sum of all those numbers",
       imgUrl: lithan2,
     },
     {
       link: "#",
-      title: "Python Project",
+      title: "Python Project 'Atomic Quiz'",
       year: "2023",
       description:
-        "My second project from Lithan during Python Programming module",
+        "My second project from Lithan where users have 5 chances to guess the name of the atomic element according to periodic table. And the output will show the user's score and show which user's answer is correct/incorrect",
       imgUrl: lithan3,
     },
     {
       link: "#",
-      title: "Python Project",
+      title: "Python Project 'Atomic Quiz (2)'",
       year: "2023",
       description:
-        "My second project from Lithan during Python Programming module",
+        "My second project from Lithan where users have 5 chances to guess the name of the atomic element according to periodic table. And the output will show the user's score and show which user's answer is correct/incorrect",
       imgUrl: lithan4,
     },
     {
       link: "#",
-      title: "Python Project",
+      title: "Python Project 'Atomic Quiz (3)'",
       year: "2023",
       description:
-        "My second project from Lithan during Python Programming module",
+        "My second project from Lithan where users have 5 chances to guess the name of the atomic element according to periodic table. And the output will show the user's score and show which user's answer is correct/incorrect",
       imgUrl: lithan5,
     },
   ];

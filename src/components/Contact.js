@@ -79,7 +79,7 @@ export const Contact = () => {
 
                   <div className="contact-detail">
                     <IoMdCall className="icon" />
-                    <a href="tel:+6281210009469">+62 821 4523 8942</a>
+                    <a href="tel:+6282145238942">+62 821 4523 8942</a>
                   </div>
                   <div className="contact-detail">
                     <MdLocationPin className="icon" />{" "}
