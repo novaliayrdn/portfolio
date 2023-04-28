@@ -31,7 +31,7 @@ export const Skills = () => {
           <div className="col-12">
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
-              <p>Language, Framework & Database</p>
+              <p>Languages</p>
               <Row className="text-center">
                 <Col style={coloumn}>
                   <motion.div
