@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Nav, Navbar, Container } from "react-bootstrap";
-import cv from "../assets/doc/Novalia’s-Curriculum-Vitae.pdf";
+import cv from "../assets/doc/Novalia’s Curiculum Vitae.pdf";
 import { BrowserRouter as Router } from "react-router-dom";
 
 import "./css/NavBar.css";

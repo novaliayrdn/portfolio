@@ -248,6 +248,31 @@ export const Projects = () => {
             </TrackVisibility>
           </Col>
         </Row>
+        <Row>
+          <Col size={12}>
+            <TrackVisibility>
+              {({ isVisible }) => (
+                <div
+                  className={
+                    isVisible ? "animate__animated animate__fadeIn" : ""
+                  }
+                >
+                  <h2 className="pt-5 mb-5">Project Explanation</h2>
+                  <div class="video-container">
+                    <iframe
+                      src="https://www.youtube.com/embed/3HPWMAQgRTQ"
+                      title="YouTube video player"
+                      frameborder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                      allowfullscreen
+                      className="video"
+                    ></iframe>
+                  </div>
+                </div>
+              )}
+            </TrackVisibility>
+          </Col>
+        </Row>
       </Container>
       <img className="background-image-right" src={colorSharp2}></img>
     </section>
